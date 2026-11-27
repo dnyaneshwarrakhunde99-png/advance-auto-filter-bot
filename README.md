@@ -1,12 +1,19 @@
 Naye features:
 
 📄 Pagination (Back / Next, 8 results per page)
+
 📢 Force-subscribe (channel join kiye bina file nahi milegi)
+
 ⏳ Auto-delete (file aur group ke results kuch time baad delete)
+
 🔗 Group se click karo to deep link se PM me file
+
 👥 Users database (MongoDB)
+
 🛠 Admin commands: /stats, /broadcast (reply karke), /ban, /unban, /delete
+
 🔒 Search sirf wahi user page badal sakta hai jisne search kiya
+
 🏷 Custom caption har file par
 
 .env me ye naye variables:
